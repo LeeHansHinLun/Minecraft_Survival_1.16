@@ -1,1 +1,0 @@
-give @s diamond_sword{Unbreakable:2147483647,Enchantments:[{id:sharpness,lvl:2147483647},{id:knockback,lvl:2147483647},{id:looting,lvl:-2147483647},{id:sweeping,lvl:2147483647},{id:unbreaking,lvl:2147483647}]} 1
