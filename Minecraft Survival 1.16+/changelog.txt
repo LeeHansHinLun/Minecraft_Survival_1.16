@@ -1,0 +1,23 @@
+v1.1
+-Added funcions:
+[diamond_sword_give,diamond_sword_give_noloot,main,setup]
+v1.2
+-Bug fix:
+[diamond_sword_give_noloot] (Tags bug)
+-Added functions:
+[armor,effect,netherite_sword,tools]
+-Remake enchanted golden apple recipe. [gold_block(crafting table),enchanted_book(crafting table)] (Shapeless crafting)
+v1.3
+-Tags changes:
+[armor,netherite_sword,tools]
+-Added data 1.17
+-1.17 version support
+v1.4
+-Added function:
+[togglegamemode]
+v1.5
+-Added function:
+[gamerule] -No gamerule damages, KeepInventory whey you die, remove entity cramming(-1) , no mob griefing, no command block output for command blocks user, 1.17 support.
+v1.6
+-Update function
+[gamerule] -For no weather cycle

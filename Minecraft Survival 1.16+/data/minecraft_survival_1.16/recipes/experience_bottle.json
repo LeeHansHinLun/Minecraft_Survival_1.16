@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "iGg",
+        " E "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+    }
+}

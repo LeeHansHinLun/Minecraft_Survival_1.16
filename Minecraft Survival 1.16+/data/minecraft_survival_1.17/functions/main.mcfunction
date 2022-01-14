@@ -1,0 +1,2 @@
+function minecraft_survival_1.17:sleep
+function minecraft_survival_1.16:trigger_commands
