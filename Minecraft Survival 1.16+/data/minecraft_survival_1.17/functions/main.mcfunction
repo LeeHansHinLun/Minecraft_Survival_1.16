@@ -1,2 +1,2 @@
 function minecraft_survival_1.17:sleep
-function minecraft_survival_1.16:trigger_commands
+function minecraft_survival_1.17:infinity_arrow

@@ -21,3 +21,9 @@ v1.5
 v1.6
 -Update function
 [gamerule] -For no weather cycle
+v1.7
+-Update function
+[main] -delete line 2
+       -create line 2 (function minecraft_survival_1.17:infinity_arrow)
+-Create function
+[infinity arrow]
